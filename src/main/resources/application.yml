@@ -1,5 +1,7 @@
+spring:
+    application.name: demo
+
 logging:
     level:
         root: INFO
         com.example.demo: DEBUG
-
